@@ -1,0 +1,23 @@
+.nav {
+  justify-content: flex-end;
+  display: flex;
+  align-items: center;
+  height: 100;
+}
+
+.nav-item {
+  margin: 0 20px;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: white; 
+  box-shadow: 0 4px 8px -2px gray;
+}
+
+.topNav {
+  background-color: #F3F4F6;
+  padding: 3px 20px; 
+}
